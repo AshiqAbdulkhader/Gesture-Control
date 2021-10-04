@@ -1,4 +1,5 @@
 import cv2
+import pyautogui
 
 cap = cv2.VideoCapture(0)
 
